@@ -1,8 +1,8 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 using Wpm.Management.Domain.Entities;
-using Wpm.Management.Domain.ValueObjects;
+using Wpm.Management.SharedKernel.ValueObjects;
 
-namespace Wpm.Management.Domain.Tests;
+namespace Wpm.Management.SharedKernel.Tests;
 
 public class UnitTest1
 {

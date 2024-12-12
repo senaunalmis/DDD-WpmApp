@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Wpm.Management.Domain;
+using Wpm.Management.SharedKernel;
 using Wpm.Management.Domain.Entities;
-using Wpm.Management.Domain.ValueObjects;
+using Wpm.Management.SharedKernel.ValueObjects;
 
-namespace Wpm.Management.Domain
+namespace Wpm.Management.SharedKernel
 {
     public interface IBreedService
     {

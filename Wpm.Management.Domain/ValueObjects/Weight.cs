@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Wpm.Management.Domain.ValueObjects
+namespace Wpm.Management.SharedKernel.ValueObjects
 {
     public record class Weight
     {

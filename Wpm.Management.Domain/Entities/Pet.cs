@@ -1,4 +1,6 @@
-﻿using Wpm.Management.Domain.ValueObjects;
+﻿using Wpm.Management.SharedKernel;
+using Wpm.Management.SharedKernel.ValueObjects;
+using Wpm.SharedKernel;
 
 namespace Wpm.Management.Domain.Entities;
 
