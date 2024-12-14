@@ -1,6 +1,7 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 using Wpm.Management.Domain.Entities;
 using Wpm.Management.SharedKernel.ValueObjects;
+using Wpm.SharedKernel;
 
 namespace Wpm.Management.SharedKernel.Tests;
 
